@@ -1,0 +1,25 @@
+{
+    "exercises": [
+        {
+            "name":"1000题",
+            "exercises":[
+                {
+                    "name":"高数",
+                    "exercises":[69, 130, 142, 69, 56, 124, 73, 81]
+                },
+                {
+                    "name":"线代",
+                    "exercises":251
+                },
+                {
+                    "name":"概率论",
+                    "exercises":196
+                }
+            ]
+        },
+        {
+            "name":"陈希孺概率论",
+            "exercises":[30]
+        }
+    ]
+}
